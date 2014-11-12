@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule ^(.*)(\.js)$ jspp/jspp.php?script=$1$2 [L,NC,QSA]
+</IfModule>
