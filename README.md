@@ -7,6 +7,12 @@ It's a collection of cooperative minigames based around being cooperative with y
 
 ![Screenshot](http://i.imgur.com/apNt4Zc.png)
 
+### Dependencies
+
+* JSPP to handle JS preprocessing. (https://code.google.com/p/jspp/)
+* JQuery is used to interpolate some values for animation. (http://jquery.com/)
+* Victor.js is used for basic vector math. (http://victorjs.org/)
+
 ### Where can I play it?
 
 Nowhere. I haven't yet open-sourced the server and I can't host it myself right now. :~(
